@@ -1,1 +1,2 @@
 File added from branch1
+Updated from branch1
